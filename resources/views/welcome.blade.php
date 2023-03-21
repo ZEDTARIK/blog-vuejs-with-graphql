@@ -7,8 +7,10 @@
         @vite('resources/css/app.css')
     </head>
     <body>
-        <div id="AA">
+        <div id="app">
             <!-- code vue JS -->
         </div>
+
+        @vite('resources/js/app.js')
     </body>
 </html>
